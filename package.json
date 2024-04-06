@@ -1,0 +1,17 @@
+{
+  "name": "tsp-ras-problem",
+  "version": "1.0.1",
+  "description": "Solving the Travelling Salesman Problem using Christofides algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "tsp",
+    "christofides",
+    "two-opt"
+  ],
+  "author": "Jakub Marchut",
+  "license": "ISC"
+}
